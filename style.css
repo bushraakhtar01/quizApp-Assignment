@@ -1,0 +1,22 @@
+.heading{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.optionElement:hover{
+     background-color: lightgreen;
+}
+button{
+    background-color: green !important;
+    border-color: inherit !important;
+    float: right;
+    clear: both;
+}
+.active{
+    background-color: lightgreen;
+}
+.score{
+    display: block !important;
+    text-align: center;
+    margin: 0px auto 0px auto !important;
+}
